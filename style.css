@@ -13,6 +13,12 @@ body{
     background: black;
 }
 
+@media screen and (max-width:600px){
+    body{
+        background: none;
+    }
+}
+
 .wrapper{
     width: 340px;
     height: 460px;
